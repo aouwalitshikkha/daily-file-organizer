@@ -10,12 +10,13 @@ Example folder name:
 ## What it does
 
 If your folder looks like this:
-
+```
 Work/
 report.docx
 new_project/
 old_notes.txt
 organize.py
+```
 
 And report.docx + new_project/ were created today, after running the script it becomes:
 ```text
