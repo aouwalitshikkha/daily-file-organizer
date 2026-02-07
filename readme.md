@@ -18,13 +18,14 @@ old_notes.txt
 organize.py
 
 And report.docx + new_project/ were created today, after running the script it becomes:
-
+```text
 Work/
 2026-02-07/
 report.docx
 new_project/
 old_notes.txt
 organize.py
+```
 
 Folders are moved as folders, so the structure inside them is not changed.
 
@@ -33,10 +34,13 @@ Folders are moved as folders, so the structure inside them is not changed.
 Run the script inside the folder you want to organize.
 
 Windows:
+```
 python organize.py
-
+```
 Mac/Linux:
+```
 python3 organize.py
+```
 
 ## Important Notes
 
